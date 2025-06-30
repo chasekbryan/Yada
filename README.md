@@ -4,3 +4,5 @@ Generates an offline HTML report highlighting occurrences of a search term (dire
 - For alternate searches other than the default...
 
 ``` python3 yada.py -t LOVE -i /path/to/kjv.txt -o search-love.html ```
+
+Requires kjv.txt (can be found online).
